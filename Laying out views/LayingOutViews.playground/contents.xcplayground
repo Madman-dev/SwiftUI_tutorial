@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground target-platform="ios" version="6.0" requires-full-environment="false">
+    <pages>
+        <page name="OrganizingViews"/>
+        <page name="Pattern Challenge #1"/>
+        <page name="ViewSizing"/>
+        <page name="Sizing Challenge"/>
+        <page name="Amazing Alignment"/>
+    </pages>
+</playground>
