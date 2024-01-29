@@ -35,11 +35,8 @@ struct OrganizingViews: View {
                 }
             }
         }
-        /*#-code-walkthrough(1.containers)*/
     }
 }
-
-
 
 struct OrganizingViews_Previews : PreviewProvider {
     static var previews: some View {
