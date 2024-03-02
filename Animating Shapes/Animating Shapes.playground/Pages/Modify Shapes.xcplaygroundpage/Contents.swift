@@ -22,6 +22,7 @@ struct ModifyShapes: View {
             // only the background - excluding the color of shape
             Circle()
                 .background(.indigo)
+            // Shapes are only able to have either a stroke or a background color. - SINGLE SHAPE
             Capsule()
                 .strokeBorder(.indigo, lineWidth: 10)
                 .background(Capsule().fill(.pink))
